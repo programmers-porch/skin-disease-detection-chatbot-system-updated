@@ -34,5 +34,3 @@ It uses a **React frontend** and a **FastAPI backend**, with a structured diseas
 - 🔌 API-based architecture (frontend ↔ backend)
 
 ---
-
-## 📁 Project Structure
